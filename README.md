@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web3 Subscription Gateway
 
 A crypto payment gateway for web3 subscriptions using ERC4337 Account Abstraction on Polygon. This system enables seamless subscription payments with gas optimization and user intent management.
@@ -267,3 +268,7 @@ MIT License - see LICENSE file for details
 - [ ] Mobile SDK
 - [ ] Dashboard for monitoring
 - [ ] Integration with popular payment processors
+=======
+# CALLA
+Open Source ERC20 Payment Gateway
+>>>>>>> 9407e099eca9f67195e9f4ea14796e46a19b1b89
