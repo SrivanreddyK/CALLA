@@ -249,9 +249,6 @@ For issues and questions:
 - Review contract documentation
 - Check deployment logs for errors
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Contributing
 
